@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="874.384 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="140"></NameColumnWidth>
+      <ValueColumnWidth column_width="67"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/tb/A_tb" type="array">
+      <obj_property name="ElementShortName">A_tb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">A_tb[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/B_tb" type="array">
+      <obj_property name="ElementShortName">B_tb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">B_tb[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/ALUout_tb" type="array">
+      <obj_property name="ElementShortName">ALUout_tb[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUout_tb[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/Carryin_tb" type="logic">
+      <obj_property name="ElementShortName">Carryin_tb</obj_property>
+      <obj_property name="ObjectShortName">Carryin_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/Zero_tb" type="logic">
+      <obj_property name="ElementShortName">Zero_tb</obj_property>
+      <obj_property name="ObjectShortName">Zero_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/Overflow_tb" type="logic">
+      <obj_property name="ElementShortName">Overflow_tb</obj_property>
+      <obj_property name="ObjectShortName">Overflow_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/Cout_tb" type="logic">
+      <obj_property name="ElementShortName">Cout_tb</obj_property>
+      <obj_property name="ObjectShortName">Cout_tb</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb/ALUCntl_tb" type="array">
+      <obj_property name="ElementShortName">ALUCntl_tb[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALUCntl_tb[3:0]</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+   </wvobject>
+</wave_config>
