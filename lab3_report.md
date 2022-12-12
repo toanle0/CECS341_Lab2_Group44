@@ -12,7 +12,7 @@ December 11, 2022
 ## Quick start
   1. Unzip Lab3.zip
   2. $cd Lab3 folder
-  3. open.xprcs file with Xilinix Vivado
+  3. open Lab3.xprcs file with Xilinix Vivado
   
 
 ## What's included
